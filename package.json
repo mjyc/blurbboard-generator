@@ -3,10 +3,14 @@
   "private": true,
   "description": "creates blurbboards",
   "main": "main.js",
-  "scripts": {},
+  "scripts": {
+    "blurbboard": "cpr ./blurbboard"
+  },
   "author": "Michael Jae-Yoon Chung",
   "license": "MIT",
   "repository": "https://gitlab.com/mjyc/blurbboard-generator",
-  "dependencies": {},
+  "dependencies": {
+    "cpr": "3.0.1"
+  },
   "devDependencies": {}
 }

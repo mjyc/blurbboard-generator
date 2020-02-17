@@ -1,6 +1,9 @@
 {
   "private": true,
   "main": "index.html",
+  "scripts": {
+    "build": "node ./action index.html"
+  },
   "dependencies": {
     "fs-extra": "8.1.0"
   },
