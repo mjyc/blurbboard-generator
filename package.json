@@ -1,0 +1,12 @@
+{
+  "name": "blurbboard-generator",
+  "private": true,
+  "description": "creates blurbboards",
+  "main": "main.js",
+  "scripts": {},
+  "author": "Michael Jae-Yoon Chung",
+  "license": "MIT",
+  "repository": "https://gitlab.com/mjyc/blurbboard-generator",
+  "dependencies": {},
+  "devDependencies": {}
+}

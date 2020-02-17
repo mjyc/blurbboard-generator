@@ -1,1 +1,3 @@
 # Blurbboard Generator
+
+creates blurbboards
